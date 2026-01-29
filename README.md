@@ -1,2 +1,10 @@
-# Machine-Learning-Linear-Regression
-A Python implementation of Linear Regression from scratch. Includes training, prediction, visualization, and evaluation (MSE/R²). Perfect for learning core ML concepts.
+# Linear Regression from Scratch  
+## Overview  
+A pure Python implementation of Linear Regression for educational purposes.  
+## Features  
+- Gradient Descent optimization  
+- Residual visualization  
+- MSE/R² metrics  
+## Usage  
+`python train.py --data dataset.csv`
+
